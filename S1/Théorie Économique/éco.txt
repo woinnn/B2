@@ -1,0 +1,164 @@
+Marketing stratégique dans la division de valéo qui s'appelle CDA
+
+Valéo, quatre branches :
+
+- Thermique, régulation de la température du véhicule
+- Capteur-moteur
+- "After market", pièces détachées
+- Confort et aide à la conduite, branche de l'intéressé, partie véhicule autonome/connecté/service digitaux et intérieur du véhicule
+
+Aujourd'hui de la stratégie de cette branche, observe les marchés, les concurrents, comment se positionne vis à vis de l'écosystème. 
+
+SWOT de l'entreprise et matrice BCG :
+
+Ajd, des outils théorique appris à l'école. Ajd on a pas une règle générale pour analyser les marchés, on regarde un projet par exemple la réalité virtuelle, on cherche à comprendre l'écosystème du projet (qui fait quoi), on définit donc la chaîne de valeur, la matière première, comment lier la solution finale au consommateur. Quels sont les étapes et le rôle de chacun. À chaque étape on génère de la valeur. (Transformation d'une données qui vaut 1€ en une information qui vaut 10€ après être passé par différents traitements dans des serveurs).
+
+Valeo se positionne donc dans cette chaîne de valeur.
+
+Valeo n'utilise jamais vraiment de SWOT; Valéo fait plutôt de la "Buisness Intelligence", que font les compétiteurs.
+Avant on faisait du benchmark, on prenait notre solution qu'on comparait avec les concurrents, mettre en avant les différences, maintenant c'est beaucoup plus complexe : il y a des spécifications qui sont de plus en plus adaptées aux besoin des consommateurs finaux avec des spécificités propre à chaque produit
+--> Buisness Intelligence, chercher pourquoi un concurrent fait quelque chose de différent et comprendre la stratégie qu'il y a derrière, on cherche pas que à montrer en quoi on est fort ou faible, on met biensur en avant ce que l'entreprise amène au marché, mais on cherche à trouver la stratégie globale des concurrents dans le marché. 
+
+De fait on observe pas que les concurrents directs mais aussi les gens qui ne sont pas dans le marché, mais qui pourraient l'être, très difficile mais objectif. 
+
+On passe donc par des consultants qui font des rapports sur des domaines; beaucoup de travail avec les sources ouvertes, puis mise en place d'un système de prédiction, qui peut ensuite montrer qu'elles peuvent être les menaces par exemple. 
+
+BCG : Au niveau financier oui, surtout regarder les produits sur lesquels on ne va pas énormément investir car rapportant peu. Valéo travaille surtout sur les marchés d'innovation, se repose pas sur ses lauriers, beaucoup de R&D, pas beaucoup d'utilisation de la matrice BCG comme on peut la connaître. 
+
+=======================================================================================================================
+
+Quels sont les produits principaux de votre entreprise ?
+
+Des "senseurs" = capteurs, scanners, lasers, caméras, services digitaux. 
+Ils travaillent dans le même temps sur le software et le hardware, par exemple scanner et caméras de reculs, modems pour les données de la voiture, logiciels de prédiction à l'intérieur du véhicule, à l'intérieur du véhicule les commandes volants ou des boutons de contrôle sur le poste de contrôle.
+
+Plus de volant à terme (Nolwenn ?) : Potentiellement oui, c'est une question en suspens, différentes d'automisation, le but à terme c'est plus de volants et moins de pièces, mais c'est encore assez loin.
+
+=======================================================================================================================
+
+Quel marché pour la nouvelle voiture autonome de Valéo ? Qui sont vos clients principaux ?
+
+Le véhicule change, on ne parle plus de véhicule mais de mobilité. Les clients principaux sont les constructeurs automobiles, OEM, constructeurs des véhicules : renault, peugeolt, fiat...
+Ces constructeurs demandent par exemple une caméra à l'avant, lance un appel d'offre, Valéo répond à cet appel avec une offre. 
+On parle plus seulement de véhicule mais de mobilité pour les nouvelles générations, mobilité = voiture, trains, trotinettes électriques, lising, covoiturage... 
+--> Les usages qui évoluent, et la voiture en elle-même qui évolue, et qui donc fait évoluer les clients de Valéo (constructeurs). Valéo cherche donc à élargir ses compétences pour la nouvelle mobilité tout en restant capable de répondre aux demandes des constructeurs traditionnels --> Fort capacité de R&D. C'est surtout là dessus que se différencie Valéo sur le marché, qui continue à proposer de nouveaux produits à ses clients. 
+
+Avec ces nouvelles mobilités viennent de nouvelles opportunités et de nouveaux clients, constructeurs de "shuttle" autonome, les ubers, ou d'autre, qui cherche des capteurs et logiciels, des solutions pour leurs services. 
+
+Avant l'architecture d'une voiture changeait pas avant 10 ans, maintenant c'est beaucoup plus rapide.
+--> Tesla, exemple de cette nouvelle mobilité connectée avec un véritable pc dans la voiture
+--> Les constructeurs traditionnels eux ne peuvent pas changer du jour au lendemain
+
+Clients plus jeunes avec de nouveaux besoins recherche de la rapidité et de l'innovation, et plus traditionnel qui veut du changement tout en gardant un confort connu
+
+Valéo cherche donc à réponde aux besoins de ces deux types de clients en même temps.
+
+=======================================================================================================================
+
+Pendants les années 70-80, l'entreprise à subis de profond changements :
+
+Avant valéo était une toute petite société, pas spécialisée sur la voiture, fournissant de nombreuses pièces en tout genre, entreprise "tiers-tout". Petit à petit elle s'est agrandie, centralisée et spécialisée sur la voiture. 
+
+=======================================================================================================================
+
+Comment Valéo travaille-t-elle à ses émissions de CO2 ? Greenwashing ?
+
+Le CO2 et la sécurité sont une volonté des clients, aussi des constructeurs, mais le client refuse de payer. La plupart des gens veulent cela, mais ne sont pas prêt à invesitir dans ces innovations (Stop/Start), préfère une chaîne stéréro, gentes en allu, ...
+
+Nécessite le législateur donc. Problème de la masse du véhicule ou alors innovation permettant plus de puissance pour le même poids, (phare à leds, chaîne de traction, système de clime qui pèse moins, ...). La sécurité et le CO2 viennent donc du législateur, s'il n'y avait pas cette poussée ça ne serait vraiment pas ou beaucoup plus lentement. 
+
+"L'écologie ne marche que s'il n'est pas poussé par la pure vertue, mais elle est aussi pour des intérêts derrière". 
+
+L'innovation est donc avant tout poussée par le législateur. 
+
+=======================================================================================================================
+
+Répond-elle aux exigences de l'actionnaire ? 
+
+Oui, ils sont bien obligés après tout c'est une SA. Les actionnaires s'attendent bien à un résultat.
+S'en suit des explications financière sur le prix d'une action qui ne sera pas utile ici. 24 minutes 15.
+
+=======================================================================================================================
+
+Investit-elle dans d'autres entreprise ?
+
+S'il elle n'a pas le temps de créer les compétences pour fabriquer un composant, elle va se retourner vers un fabricant. S'il y a un intérêt à long terme alors on cherchera à racheter ce fabricant ou à créer soit même une ligne de fabrication. Néanmoins on perd en agilité si on investit soit-même. Il s'agit juste d'une logique financière.
+
+Il s'agit pas vraiment d'investir, mais avant tout une logique de partenariat comme le partenariat SIEMENS en 2022. 
+Permet de mutualiser les compétences, les investissements, les profits et surtout les risques.
+
+On sait qu'on ne peut pas faire tout tout seul, même dans le marketing.
+
+=======================================================================================================================
+
+Stratégie de cette R&D ?
+
+Avoir toujours un coup d'avance, une technologie d'avance pour prendre l'avance sur les concurrents.
+
+=======================================================================================================================
+
+Quels sont les différents pôles R&D ?
+
+Il y en a beaucoup, il y a un peu de R&D partout, mais pas de gros pôles définit. Il y a du hard comme du software dans le véhicule autonome, l'intelligence artificiel, etc.
+
+=======================================================================================================================
+
+Avez-vous des partenariats dans la R&D ?
+
+Beaucoup de partenariats avec des universités, en particuliers au niveau de l'intelligence artificiel, ils peuvent faire leur thèse de doctorat et travailler avec Valéo pour avoir une vision jeune et des ressources les plus à jour possible.
+
+=======================================================================================================================
+
+La recherche porte-t-elle ses fruits ?
+
+Oui pour le moment en tout cas. 
+
+=======================================================================================================================
+
+Êtes-vous aujourd'hui en possession de technologie émergeante ?
+
+Exemple du laser scanner, plus d'information sur le site web, mais aujourd'hui les seules à avoir une production industrielle de ces outils. 
+
+=======================================================================================================================
+
+Valéo fait-elle du lobbying ?
+
+Pas du lobbying à l'américaine avec les valise, mais Valéo est présent dans les différents groupe de travail, comme les groupes de travail de l'UE. Ils y sont présents avec leurs concurrents avant tout pour rendre les volontés politiques applicables à la réalité technique, sorte de consultation. 
+Le politique veut faire une norme de sécurité, besoin d'ingénieurs de différents horizons afin de voir technniquement comment mettre en place cette norme.
+
+Le politique ne peut pas imposer directement de solution, mais cherche à mettre en place un résultat avec les industriels.
+
+=======================================================================================================================
+
+Cherchez-vous à investir dans le marché des matières premières ?
+
+En 2008 le prix du cuivre avait explosé et avait fortement affecté les industies. Pour cherche à se couvrir face à ce genres d'imprévus mis en place de produits dérivés (financiers !! pas des mugs), et passe aussi par la mise en place d'une bourse des métaux avec indexation du cuivre. 
+
+On ne peut pas investissir, ni indexer toutes les matières premières ou terres rares. 
+
+La stratégie de Valéo passe donc encore une fois par l'innovation, afin de cherche à se passer des certaines terres rares et métaux. --> Partenariats avec les universités.
+
+Dans l'informatique très sensible à la sillice on a un contrôle de toute la chaîne mais ce n'est pas le cas pour l'automobile. 
+
+=======================================================================================================================
+
+Dev en Asie ? Avec des partenaires locaux ?
+
+Oui, valéo est présente en Asie, ses clients sont des constructeurs asiatiques comme Hyundai. 
+Idée de se dev sur le marché potentiel asiatique très important, en particulier la Chine, qui a donc des exigences spécifiques, mais ça reste plus ou moins le même marché. 
+
+Exigence en terme de coûts différents aussi.
+
+Équipes locales, partenaires locales (lesquels ?), pas juste importation des produits. 
+
+On parle pas d'Asie mais de Chine, Japon et Corée du Sud, l'Asie est en soit trop hétérogène pour faire groupe toute l'asie dedans. 
+
+Une voiture sur quatre est fait en Asie.
+
+=======================================================================================================================
+
+(Nolwenn) Et l'Afrique ?
+
+Valéo n'est pas intéressé, des constructeurs commencent à regarder ce marché. Ils attendent que les constructeurs s'implique tout d'abord. Les produits de valéo sont surtout des voirures neuves, mais pour l'instant c'est surtout de la récupération dans beaucoup de pays. 
+
+Marché émergeant pour les constructeurs, et donc pas un marché du tout pour Valéo tant que les constructeurs ne sont pas fortement impliqués dedans. 
